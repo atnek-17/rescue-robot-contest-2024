@@ -1,0 +1,6 @@
+SO1602A.c:10:6:oled_Init	16	static
+SO1602A.c:14:5:writeData	32	static
+SO1602A.c:21:6:writeCommand	32	static
+SO1602A.c:27:6:OLED_Init	8	static
+SO1602A.c:35:6:set_cursor	16	static
+SO1602A.c:44:6:Puts	16	static

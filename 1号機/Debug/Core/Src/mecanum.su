@@ -1,0 +1,5 @@
+mecanum.c:11:6:motor_1	16	static
+mecanum.c:15:6:motor_2	16	static
+mecanum.c:19:6:motor_3	16	static
+mecanum.c:23:6:motor_4	16	static
+mecanum.c:28:6:mecanum	24	static
